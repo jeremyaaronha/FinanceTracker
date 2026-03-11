@@ -6,7 +6,7 @@ This software allows users to add income and expense transactions, view all tran
 
 The purpose of writing this software was to better understand Kotlin syntax, especially how Kotlin handles classes, mutable and immutable variables, collections, and control structures. I also wanted to practice organizing code in a clean and simple way.
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/TSGwjU3FXAE
 
 # Development Environment
 
